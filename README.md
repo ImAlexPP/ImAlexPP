@@ -1,11 +1,10 @@
-https://64.media.tumblr.com/0422c18a756a2a1d5dccdf444fad74b4/tumblr_nvrklgFS7O1tga1sco1_500.gifv
-[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://64.media.tumblr.com/0422c18a756a2a1d5dccdf444fad74b4/tumblr_nvrklgFS7O1tga1sco1_500.gifv)](https://steamuserimages-a.akamaihd.net/ugc/608349439293031548/218765ADEBAD9B4A9A9486F93726FAECA3FDA76E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false))]
+![Header](https://c4.wallpaperflare.com/wallpaper/850/429/69/one-punch-man-wallpaper-preview.jpg)
 # 💫 裕. 寛. 浩. 
 Hiro
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/e0/4e/17e04e8b0c55bd2f79f959974f1a6732.gif">
 
 ## 🌐 Sub?
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCOnCfw5Lp-z1PinP298YwaQ) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@UCOnCfw5Lp-z1PinP298YwaQ](https://www.youtube.com/channel/UCOnCfw5Lp-z1PinP298YwaQ)) 
 
 # 💻 mada mada
 ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
